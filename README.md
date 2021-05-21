@@ -1,5 +1,5 @@
 # AppBomTchau
-🧠 O aplicativo onde aprender é diverção. 
+🧠 O aplicativo onde aprender é diversão. 
 
 ### Criando por: 
    - Emili: https://github.com/Emilii77
