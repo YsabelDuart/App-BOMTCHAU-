@@ -1,6 +1,9 @@
 # AppBomTchau
 🧠 O aplicativo onde aprender é diverção. 
 
+- Aplicativo desenvolvido em python onde o intuito é auxialiar menores de idade no sistema de alabetização
+- Aplicativo contém compatibiliadde com Android e IOS
+
 ### Criando por: 
    - Emili: https://github.com/Emilii77
    - Isabel: https://github.com/YsabelDuart
