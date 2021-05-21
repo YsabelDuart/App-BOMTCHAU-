@@ -4,7 +4,6 @@
 
 
 
-
   - Aprendizado de línguas estrangeiras (Inglês e Francês)
     - 📖 Lendo: por meio de histórias e poemas 
     - 🔺 Figuras Geometricas 
