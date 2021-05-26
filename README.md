@@ -1,11 +1,11 @@
 # AppBomTchau
 🧠 O aplicativo onde aprender é diversão. 
 
-    - Aplicativo desenvolvido em python onde o intuito é auxialiar menores de idade no sistema de alabetização
-    - Aplicativo contém compatibiliadde com Android e IOS
+   - Aplicativo desenvolvido em python onde o intuito é auxialiar menores de idade no sistema de alabetização
+   - Aplicativo contém compatibiliadde com Android e IOS
 
 ###  Site Bomtchau: 
-   - https://maxinocencio.github.io/App-BOMTCHAU-/
+   - https://maxinocencio.github.io/App-BOMTCHAU-/ - Ajustando...
 
 ### Criando por: 
    - Emili: https://github.com/Emilii77
