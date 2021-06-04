@@ -3,6 +3,10 @@
 
    - Aplicativo desenvolvido em python onde o intuito é auxialiar menores de idade no sistema de alabetização
    - Aplicativo contém compatibiliadde com Android e IOS
+   - Fizemos um protótipo em html tem o cunho educativo seu público alvo é infantil, o aplicativo contém retrocompatibilidade, com várias plataformas
+     foi feito com base nos dados atuais do Brasil, principalmente nos índices de analfabetização atuais.
+
+
 
 ###  Site Bomtchau: 
    - https://maxinocencio.github.io/App-BOMTCHAU-/ - Ajustando...
