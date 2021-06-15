@@ -20,7 +20,7 @@
 
 
 
-  ### Aprendizado de línguas estrangeiras (Inglês e Francês)
+  ### Aprendizado de línguas estrangeiras 
     - 📖 Lendo: por meio de histórias e poemas 
     - 🔺 Figuras Geometricas 
     - 🐕 Nomes de animais
